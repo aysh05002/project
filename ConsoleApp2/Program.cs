@@ -42,7 +42,7 @@ class program
                     break;
                 case 4:
 
-                    Console.WriteLine("Programmet avslutas")
+                    Console.WriteLine("Programmet avslutas");
                      break;
                    
             }
